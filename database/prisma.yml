@@ -1,0 +1,9 @@
+# HTTP endpoint for your PRISMA API
+#endpoint: ''
+endpoint: https://us1.prisma.sh/dorell-james-galang-8d853a/hackernews-node/dev
+
+# Points to the file that holds themodel
+datamodel: datamodel.graphql
+
+# You can only access the API when providing JWTs that are signed with this secret
+secret: Mysecret213
